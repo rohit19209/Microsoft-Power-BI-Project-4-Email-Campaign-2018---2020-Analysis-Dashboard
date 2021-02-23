@@ -1,5 +1,5 @@
 # Microsoft-Power-BI-Project-4-Email-Campaign-2018---2020-Analysis-Dashboard
-# Prerequitise- Download Microsoft Power BI Desktop latest Version in your local system.
+Prerequitise- Download Microsoft Power BI Desktop latest Version in your local system.
 Steps to follow to view the Dashboard-
 1) Downlaod the .rar File
 2) Unzip the .rar file and save all the files in a folder of your choice in your local system.
